@@ -8,6 +8,9 @@ public class Hello {
     //storing the result in the variable sum
     sum = num1+num2;
 
+    mul = num1*num2;
+    System.out.println(mul);
+
     //printing the result
     System.out.println("Sum of "+num1+" and "+num2+" is: "+sum);
   }
